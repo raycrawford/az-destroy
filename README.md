@@ -1,6 +1,5 @@
 
-# Project Title
-## AZ Destory
+# AZ-Destroy
 az-destroy.bash deletes Azure resource groups that match a command-line-provided string across Azure Subscriptions.  The Azure CLI was used because of it's simple `--no-wait` flag that parallelizes and runs the command in the background.
 
 ## Getting Started
